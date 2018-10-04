@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "botbuilder": "^3.4.2",
-    "botbuilder-azure": "0.0.1",
+    "botbuilder": "^4.0.6",
+    "botbuilder-azure": "4.0.6",
     "sleep": "^5.1.0"
   },
   "devDependencies": {
-    "restify": "^4.1.1"
+    "restify": "^7.2.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
