@@ -1,4 +1,7 @@
 ## Digital Aperture
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/calpa/Digital-Aperture.svg)](https://greenkeeper.io/)
+
 Interactive bot and alert system for elderly living alone and their family members.
 
 Hackathon: ImagineHack 2017 (21-22/01 2017)
